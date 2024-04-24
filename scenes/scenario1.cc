@@ -149,7 +149,7 @@ main(int argc, char* argv[])
     }
 
     // Salvando os resultados em um arquivo
-    SaveResultsToFile("results-172.17.0.2.csv", allResults);
+    SaveResultsToFile("results-scenario1.csv", allResults);
 
     return 0;
 }

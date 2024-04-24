@@ -157,7 +157,7 @@ main(int argc, char* argv[])
     }
 
     // Salvando os resultados em um arquivo
-    SaveResultsToFile("results-10.1.2.2.csv", allResults); // Endereço IP do Servidor
+    SaveResultsToFile("results-scenario2", allResults); // Endereço IP do Servidor
 
     return 0;
 }
